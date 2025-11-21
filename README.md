@@ -1,8 +1,8 @@
-# 👋 Hi — I'm Chamuditha Theekshana (Chamu)
+# 👋 Hi — I'm Chamuditha Theekshana (chamuditha_t)
 
 **Aspiring Software Engineer • Full-Stack Developer • Hardware-Software Integrator**
 
-I'm a final-year BSc student building real, production-like software systems. I combine **clean front-end UI**, **robust back-end architecture**, and **embedded hardware** integrations (Arduino + RFID) to deliver end-to-end solutions used in real workflows.
+I'm a final-year BSc student building real, production-like software systems. I combine **clean front-end UI**, **robust back-end architecture**, and **embedded hardware** integrations to deliver end-to-end solutions used in real workflows.
 
 ---
 
@@ -18,8 +18,6 @@ I'm a final-year BSc student building real, production-like software systems. I 
 - **Vehicle Rental Management System** — Booking flow, admin dashboard, availability logic (Java/PHP + MySQL).  
 - **RFID Attendance System** — Arduino-based check-in hardware integrated with a desktop/web dashboard (Arduino + Java/Firebase).  
 - **Portfolio Website** — Personal site showcasing projects, case studies, and contact info (React/Tailwind).
-
-*(Pinned repositories contain code, screenshots, and setup instructions.)*
 
 ---
 
