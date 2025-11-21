@@ -5,14 +5,16 @@
 I'm a final-year BSc student building real, production-like software systems. I combine **clean front-end UI**, **robust back-end architecture**, and **embedded hardware** integrations to deliver end-to-end solutions used in real workflows.
 
 ---
-
-## 🎓 Education
+### 🎓 Education
 **Bachelor of Science in Software Engineering**  
-Birmingham City University
-Expected Graduation: [2026]
+Birmingham City University – Expected Graduation: 2026
 
 **Advanced Level (Sri Lanka):** Technology Stream – Strong foundation in computing and applied technology
-**Achievements:** Merit award in [Inventor Competition] – National-level recognition for innovation and applied technology
+
+### 🏆 Achievements
+- Merit award in [Inventor Competition] – National-level recognition for innovation and applied technology
+
+---
 
 ## 🔭 Current focus
 - Preparing for software engineering internships at leading companies.  
