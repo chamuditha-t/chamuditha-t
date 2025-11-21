@@ -54,7 +54,7 @@ Birmingham City University – Expected Graduation: 2026
 ---
 
 ## 📫 Contact
-- **LinkedIn:** [linkedin.com/in/your-linkedin]  
+- **LinkedIn:** https://www.linkedin.com/in/chamuditha-theekshana-779590392/  
 - **Email:** chamudithatheekshana6815@gmail.com
   
 ---
