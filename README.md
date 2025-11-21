@@ -42,20 +42,13 @@ I'm a final-year BSc student building real, production-like software systems. I 
 - I build **hybrid solutions** — UI + APIs + embedded hardware — not just single-page demos.  
 - I structure projects like real engineering teams: modular code, documentation, DB schemas, and deployment notes.  
 - I focus on **user flows** and **data insights** (dashboards, simple analytics).
-
+  
 ---
 
 ## 📫 Contact
 - **LinkedIn:** [linkedin.com/in/your-linkedin]  
-- **Email:** chamudithatheekshana6815@gmail.com  
+- **Email:** chamudithatheekshana6815@gmail.com
+  
 ---
-
-## ⚡ Open to
-Internships • Remote & On-site roles 
-
----
-
-> If you want, I can:
-> - customize this README with your real links and email,  
-> - write README files for each project (POS, Rental, RFID),  
-> - or provide repo folder structures and example `.gitignore` / `LICENSE` files.
+## ⚡ Looking for
+Software Engineering Internships or Junior Developer Roles at Top-Tier Technology Companies • Ready to Contribute to Real-World Projects
